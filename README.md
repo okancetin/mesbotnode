@@ -1,0 +1,2 @@
+# mesbotnode
+mesbot
